@@ -3,12 +3,12 @@ This project implements a complete relational database for library management. I
 
 Group Members (Group 13)
 
-Ouedraogo Landry — Group Leader
-Birba WendRabo Casimir
-Diallo Maimata
-Yameogo Leonne
-Sanfo Madi
-Zongo Sadeck
+1-Ouedraogo Landry — Group Leader
+2-Birba WendRabo Casimir
+3-Diallo Maimata
+4-Yameogo Leonne
+5-Sanfo Madi
+6-Zongo Sadeck
 
 Database Structure
 The system is built on 5 main entities normalized to 3NF to ensure no redundancy and full data integrity:
