@@ -4,10 +4,15 @@ This project implements a complete relational database for library management. I
 Group Members (Group 13)
 
 1-Ouedraogo Landry — Group Leader
+
 2-Birba WendRabo Casimir
+
 3-Diallo Maimata
+
 4-Yameogo Leonne
+
 5-Sanfo Madi
+
 6-Zongo Sadeck
 
 Database Structure
