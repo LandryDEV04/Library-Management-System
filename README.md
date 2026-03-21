@@ -1,21 +1,23 @@
 📚 Library Management System — CS27 Project
+
 This project implements a complete relational database for library management. It covers the design phase (entities, relationships, 3NF normalization), the MySQL implementation (5 tables: `authors`, `members`, `book`, `borrowing_records`, `fines`), and reporting through advanced SQL queries (JOINs, GROUP BY, HAVING).
 
-Group Members (Group 13)
+      Group Members (Group 13)
 
-1-Ouedraogo Landry — Group Leader
+     1-Ouedraogo Landry — Group Leader
 
-2-Birba WendRabo Casimir
+     2-Birba WendRabo Casimir
 
-3-Diallo Maimata
+     3-Diallo Maimata
 
-4-Yameogo Leonne
+     4-Yameogo Leonne
 
-5-Sanfo Madi
+     5-Sanfo Madi
 
-6-Zongo Sadeck
+     6-Zongo Sadeck
 
 Database Structure
+
 The system is built on 5 main entities normalized to 3NF to ensure no redundancy and full data integrity:
 
 AUTHORS — Stores information about writers.
@@ -26,6 +28,7 @@ FINES — Manages fines related to late returns.
 
 
  Repository Contents
+ 
 The project is divided into SQL scripts to be executed in the following order:
 
 crebas_corrected.sql — Creates the library_db database and all tables with constraints (PK, FK, UNIQUE).
