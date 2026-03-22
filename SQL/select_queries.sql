@@ -1,5 +1,5 @@
 
-USE library_db;
+USE Library_db;
 
 
 SELECT * FROM BOOKS;
